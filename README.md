@@ -36,7 +36,7 @@ This is an photo editing application created using python gui framework tkinter
 
 ## This pic edited for my friends birthday using this application
 
-<img src="screenshos/IMG-20200831-WA0004.jpg" width="800px" height="400px">
+<img src="screenshos/IMG-20200831-WA0004.jpg" >
  
  -- this pic is edited using old version --
  
