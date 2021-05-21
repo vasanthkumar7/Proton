@@ -23,7 +23,7 @@ This is an photo editing application created using python gui framework tkinter
 
 ## How to use
 
-- first run the program and select an image and start ediing
+- first run the program and select an image and start editing
 - then you can save the images if you want
 - in paint section you can use color picker using right on the image
 
