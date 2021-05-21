@@ -15,6 +15,7 @@ This is an photo editing application created using python gui framework tkinter
 - Paint
 - rotate
 - adjust
+- Image on Image
 - color picker
 - crop
 - filters
