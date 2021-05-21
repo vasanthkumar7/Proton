@@ -27,6 +27,11 @@ This is an photo editing application created using python gui framework tkinter
 
 ## Screenshots
 
-<img src="
+<img src="screenshos/Screenshot (168).png" width="800px" height="400px">
+<img src="screenshos/Screenshot (169).png" width="800px" height="400px">
+<img src="screenshos/Screenshot (170).png" width="800px" height="400px">
+<img src="screenshos/Screenshot (171).png" width="800px" height="400px">
+<img src="screenshos/Screenshot (172).png" width="800px" height="400px">
+
 
 
