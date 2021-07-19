@@ -25,7 +25,7 @@ This is an photo editing application created using python gui framework tkinter
 
 - first run the program and select an image and start editing
 - then you can save the images if you want
-- in paint section you can use color picker using right on the image
+- in paint section you can use color picker using right click on the area you want to pick color from
 
 ## Screenshots
 
